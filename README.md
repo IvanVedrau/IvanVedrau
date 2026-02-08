@@ -15,42 +15,23 @@ I like working close to the engine level, understanding how things work under th
 
 ---
 
-## 🎮 Featured Projects
-
-### 🔹 MatchIt!
-Casual Android game focused on color perception and reaction speed.  
-Built with **Unity (C#)**, **Firebase**, and **Unity Ads**.
-
-- 🔐 Firebase Authentication & Database  
-- 📊 Score tracking & progression  
-- 📢 Unity Ads integration  
-
-▶ Gameplay video:  
-https://www.youtube.com/watch?v=6CdUwhHnbJY
-
-🎮 Play on itch.io:  
-https://blumix23.itch.io/matchit
-
----
-
 ## 🛠️ Skills & Tools
 - **Languages:** C++, C#
 - **Game Engines:** Unity
 - **Mobile:** Android
-- **Backend / Services:** Firebase Authentication, Realtime Database
 - **Version Control:** Git & GitHub
 
 ---
 
 ## 🧩 What I’m Learning Next
 - Deeper C++ game architecture
-- Performance optimization
+- Performance optimisation
 - Engine-level concepts
 - Cleaner and more maintainable code design
 
 ---
 
 ## 📫 Contact & Links
-- 💻 GitHub: https://github.com/IvanVedrau
+- 💻 Portfolio: https://portfolio.gamelab.fi/ivan.vedrau/Portfolio/index.html
 - 💼 LinkedIn: https://www.linkedin.com/in/ivanvedrau/
 - 🎮 itch.io: https://blumix23.itch.io
